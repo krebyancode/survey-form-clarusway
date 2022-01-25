@@ -1,4 +1,4 @@
 # survey-form-clarusway
-HTML, CSS
+Survey Form with HTML, CSS
 
 https://krebyancode.github.io/survey-form-clarusway/
